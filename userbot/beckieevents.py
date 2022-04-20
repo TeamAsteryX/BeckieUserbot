@@ -1,6 +1,6 @@
-#By Devil
-#Credit to @lucifeermorningstar.
-#Copyright to Devil UserBot
+#By Beckie
+#Credit to @StarGamerz007.
+#Copyright to Beckie UserBot
 #
 """ Userbot module for managing events.
  One of the main components of the userbot. """
