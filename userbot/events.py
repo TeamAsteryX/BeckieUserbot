@@ -6,6 +6,7 @@
 """ Userbot module for managing events.
  One of the main components of the fridaybot. """
 
+
 import sys
 from asyncio import create_subprocess_shell as asyncsubshell
 from asyncio import subprocess as asyncsub
