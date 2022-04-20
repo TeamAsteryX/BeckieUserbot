@@ -5,7 +5,6 @@ except ImportError:
 
 from sqlalchemy import Column, String, UnicodeText
 
-
 class GLOBELMute(BASE):
     __tablename__ = "globelmute"
     sender = Column(String(14), primary_key=True)
