@@ -15,7 +15,6 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 # gonna use this for hellbot....
 
-
 class CancelProcess(Exception):
     """
     Cancel Process
