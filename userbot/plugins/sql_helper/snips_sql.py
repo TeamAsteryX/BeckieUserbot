@@ -2,7 +2,6 @@ from sqlalchemy import Column, LargeBinary, Numeric, UnicodeText
 
 from userbot.plugins.sql_helper import BASE, SESSION
 
-
 class Snips(BASE):
     __tablename__ = "snips"
     snip = Column(UnicodeText, primary_key=True)
