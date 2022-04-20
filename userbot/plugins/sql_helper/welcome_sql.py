@@ -2,7 +2,6 @@ from sqlalchemy import BigInteger, Boolean, Column, String, UnicodeText
 
 from userbot.plugins.sql_helper import BASE, SESSION
 
-
 class Welcome(BASE):
     __tablename__ = "welcome"
     chat_id = Column(String(14), primary_key=True)
