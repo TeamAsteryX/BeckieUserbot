@@ -1,4 +1,4 @@
-# credits to @mrconfused 
+# if you are a kanger then please give credit to me @DASHING_LEGEND_XD give credit and take file :)
 
 import asyncio
 import datetime
