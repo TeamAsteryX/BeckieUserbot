@@ -18,7 +18,6 @@ else:
     if os.path.exists("config.py"):
         from config import Development as Config
 
-
 def admin_cmd(pattern=None, allow_sudo=False, **args):
     if pattern is not None:
         args["pattern"] = re.compile(Config.COMMAND_HAND_LER + pattern)
