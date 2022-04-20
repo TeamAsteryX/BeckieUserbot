@@ -1,11 +1,13 @@
 #!/bin/bash
 clear
 echo "
+
  _____    _      _           _   
 |_   _|__| | ___| |__   ___ | |_ 
   | |/ _ \ |/ _ \ '_ \ / _ \| __|
   | |  __/ |  __/ |_) | (_) | |_ 
   |_|\___|_|\___|_.__/ \___/ \__|
+
 
 "
 # Termux session string generator for TeleBot
