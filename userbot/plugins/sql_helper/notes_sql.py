@@ -4,7 +4,6 @@ except ImportError:
     raise Exception("Hello!")
 from sqlalchemy import Column, String, UnicodeText
 
-
 class Notes(BASE):
     __tablename__ = "notes"
     chat_id = Column(String(14), primary_key=True)
