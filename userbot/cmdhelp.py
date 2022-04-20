@@ -1,6 +1,5 @@
 from userbot import CMD_HELP, CMD_HELP_BOT, PATTERNS, COMMAND_HAND_LER
 
-
 class CmdHelp:
     """
     The class I wrote to better generate command aids.
