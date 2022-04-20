@@ -26,3 +26,14 @@ with TelegramClient(StringSession(), APP_ID, API_HASH) as client:
     print("")
     print("")
     print(client.session.save())
+
+
+
+
+
+
+
+
+
+
+
