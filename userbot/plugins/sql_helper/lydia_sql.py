@@ -2,7 +2,6 @@ from sqlalchemy import Column, Numeric, UnicodeText
 
 from userbot.plugins.sql_helper import BASE, SESSION
 
-
 class LydiaAI(BASE):
     __tablename__ = "lydia_ai"
     user_id = Column(Numeric, primary_key=True)
