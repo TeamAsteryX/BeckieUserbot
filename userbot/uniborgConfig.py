@@ -150,4 +150,3 @@ if ENV:
 else:
     class Config(object):
         DB_URI = None
-       
