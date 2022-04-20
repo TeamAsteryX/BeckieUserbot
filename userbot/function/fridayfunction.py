@@ -3,7 +3,6 @@
 import random
 import string
 
-
 # String Finder
 def stark_finder(s, first, last):
     try:
