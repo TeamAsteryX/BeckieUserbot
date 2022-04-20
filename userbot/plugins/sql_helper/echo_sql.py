@@ -2,7 +2,6 @@ from sqlalchemy import Column, String
 
 from userbot.plugins.sql_helper import BASE, SESSION
 
-
 class ECHOSQL(BASE):
     __tablename__ = "echo_sql"
     user_id = Column(String(14), primary_key=True)
