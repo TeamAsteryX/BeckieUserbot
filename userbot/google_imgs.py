@@ -1,4 +1,4 @@
-#Credit - Catuserbot @sandy1709
+# Please give credit to me @DASHING_LEGEND_XD
 #
 #!/usr/bin/env python
 # In[ ]:
