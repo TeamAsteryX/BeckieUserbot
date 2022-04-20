@@ -6,7 +6,6 @@ from fridaybot.Configs import Config
 
 herokuclient = heroku3.from_key(Config.HEROKU_API_KEY)
 
-
 class HerokuHelper:
     def __init__(self, appName, apiKey):
         self.API_KEY = apiKey
