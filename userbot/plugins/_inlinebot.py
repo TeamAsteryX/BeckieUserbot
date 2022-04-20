@@ -10,7 +10,7 @@ from userbot.cmdhelp import *
 from userbot.utils import *
 
 # thats how a lazy guy imports
-# devilbot
+# beckiebot
 
 def button(page, modules):
     Row = 7
