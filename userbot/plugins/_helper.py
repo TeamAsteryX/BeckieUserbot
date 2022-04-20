@@ -7,7 +7,6 @@ from telethon import functions
 from userbot import ALIVE_NAME, CMD_LIST, SUDO_LIST
 from userbot.utils import admin_cmd, edit_or_reply, sudo_cmd
 
-
 @bot.on(admin_cmd(pattern="help", outgoing=True))
 async def yardim(event):
     tgbotusername = Config.TG_BOT_USER_NAME_BF_HER
