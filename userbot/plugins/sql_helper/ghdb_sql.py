@@ -1,7 +1,6 @@
 from sqlalchemy import Column, String
 from userbot.plugins.sql_helper import SESSION, BASE
 
-
 class ghdb(BASE):
     __tablename__ = "channels"
     chat_id = Column(String(14), primary_key=True)
