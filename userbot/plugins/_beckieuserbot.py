@@ -1,4 +1,4 @@
-"""DevilUserBot Help Command"""
+"""BeckieUserBot Help Command"""
 
 from userbot import *
 from userbot import CMD_HELP
