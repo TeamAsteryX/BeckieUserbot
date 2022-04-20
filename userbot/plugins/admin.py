@@ -7,7 +7,6 @@ Userbot module to help you manage a group
 """
 
 from asyncio import sleep
-
 from telethon import functions
 from telethon.errors import (
     BadRequestError,
