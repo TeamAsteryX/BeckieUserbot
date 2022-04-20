@@ -2,7 +2,6 @@ from sqlalchemy import Column, Numeric
 
 from userbot.plugins.sql_helper import BASE, SESSION
 
-
 class NOLogPMs(BASE):
     __tablename__ = "no_log_pms"
     chat_id = Column(Numeric, primary_key=True)
