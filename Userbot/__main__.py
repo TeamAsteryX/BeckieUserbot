@@ -2,7 +2,6 @@ import glob
 import logging
 from pathlib import Path
 from sys import argv
-
 import telethon.utils
 from telethon import TelegramClient
 
