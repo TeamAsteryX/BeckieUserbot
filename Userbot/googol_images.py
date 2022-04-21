@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # In[ ]:
 #  coding: utf-8
-# Credits Goes To @MrConfused Please Give Credits His Hardwork [=]
+# Please give credits to me @DASHING_LEGEND_XD
 
 ###### Searching and Downloading Google Images to the local disk ######
 
