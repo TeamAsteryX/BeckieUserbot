@@ -9,7 +9,7 @@
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/lucifeermorningstar)
 
 
-# Devil-User-Bot
+# Beckie-User-Bot
 
 DEPLOYING TO HEROKU
 
@@ -19,7 +19,7 @@ DEPLOYING TO HEROKU
 <a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![DEVILBot logo](https://telegra.ph/file/b907cf4d03ef1298fe623.jpg)](https://t.me/deviluserbot)
+[![DEVILBot logo](https://te.legra.ph/file/fe2debf51752fd05c9750.jpg)](https://t.me/deviluserbot)
 # 𝐂𝐫𝐞𝐝𝐢𝐭 𝐆𝐨𝐞𝐬 𝐓𝐨
 1. Programming Error (Error Fixer) 
 2. Kraken (Hellbot owner) 
