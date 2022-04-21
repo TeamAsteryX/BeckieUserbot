@@ -3,7 +3,6 @@ import inspect
 import logging
 import re
 from pathlib import Path
-
 from telethon import events
 
 from userbot import CMD_LIST, LOAD_PLUG, bot
