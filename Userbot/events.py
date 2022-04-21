@@ -12,7 +12,6 @@ from asyncio import subprocess as asyncsub
 from os import remove
 from time import gmtime, strftime
 from traceback import format_exc
-
 from telethon import events
 
 from userbot import LOGSPAMMER, PRIVATE_GROUP_ID, bot
