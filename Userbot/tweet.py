@@ -2,7 +2,6 @@ import requests
 from PIL import Image
 from validators.url import url
 
-
 async def moditweet(text):
     r = requests.get(
         f"https://nekobot.xyz/api/imagegen?type=tweet&text={text}&username=narendramodi"
