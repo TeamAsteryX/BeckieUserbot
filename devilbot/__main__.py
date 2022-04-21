@@ -7,7 +7,6 @@
 
 from importlib import import_module
 import os
-
 from telethon.errors.rpcerrorlist import PhoneNumberInvalidError
 
 from userbot import LOGS, bot
