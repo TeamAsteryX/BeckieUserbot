@@ -1,4 +1,4 @@
-### ☣️ The Most Powerfull Userbot ☣️
+### ☣️ The Most Powerful Userbot ☣️
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/lucifeermorningstar/deviluserbot?utm_source=github.com&utm_medium=referral&utm_content=lucifeermorningstar/deviluserbot&utm_campaign=Badge_Grade_Settings)
 
@@ -6,7 +6,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucifeermorningstar/deviluserbot)
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/lucifeermorningstar)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/DASHING_LEGEND_XD)
 
 
 # Beckie-User-Bot
