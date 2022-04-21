@@ -16,17 +16,9 @@ DEPLOYING TO HEROKU
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lucifeermorningstar/devilpack)
 
 ## Official Support
-<a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TianaSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![DEVILBot logo](https://te.legra.ph/file/fe2debf51752fd05c9750.jpg)](https://t.me/deviluserbot)
-# 𝐂𝐫𝐞𝐝𝐢𝐭 𝐆𝐨𝐞𝐬 𝐓𝐨
-1. Programming Error (Error Fixer) 
-2. Kraken (Hellbot owner) 
-3. LegendX (TEAMLEGEND) 
+[![BECKIEBot logo](https://te.legra.ph/file/fe2debf51752fd05c9750.jpg)](https://t.me/deviluserbot)
 
-# 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨
-     
-    𝐇𝐞𝐥𝐥 𝐁𝐨𝐭 𝐓𝐞𝐚𝐦.... 
-    LEGENDX (TEAMLEGEND)
 
